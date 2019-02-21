@@ -1,2 +1,8 @@
 # hello-world
 just a text;
+#include"stdio.h"
+int main()
+{
+ printf("hello world");
+ return 0;
+}
